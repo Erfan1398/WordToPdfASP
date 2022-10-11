@@ -1,0 +1,138 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WordToPdf/1.0.0": {
+        "dependencies": {
+          "MSOffice.Interop": "15.0.4815.1",
+          "Microsoft.Office.Interop.Word": "15.0.4797.1004"
+        },
+        "runtime": {
+          "WordToPdf.dll": {}
+        }
+      },
+      "Microsoft.Office.Interop.Word/15.0.4797.1004": {},
+      "MSOffice.Interop/15.0.4815.1": {
+        "runtime": {
+          "lib/Microsoft.Office.Interop.Access.Dao.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.4420.1017"
+          },
+          "lib/Microsoft.Office.Interop.Access.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.4420.1017"
+          },
+          "lib/Microsoft.Office.Interop.Excel.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.4795.1000"
+          },
+          "lib/Microsoft.Office.Interop.Graph.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.4420.1017"
+          },
+          "lib/Microsoft.Office.Interop.InfoPath.SemiTrust.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "15.0.4420.1017"
+          },
+          "lib/Microsoft.Office.Interop.InfoPath.Xml.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.4420.1017"
+          },
+          "lib/Microsoft.Office.Interop.InfoPath.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.4420.1017"
+          },
+          "lib/Microsoft.Office.Interop.MSProject.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.4420.1017"
+          },
+          "lib/Microsoft.Office.Interop.OneNote.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.4420.1017"
+          },
+          "lib/Microsoft.Office.Interop.Outlook.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.4797.1003"
+          },
+          "lib/Microsoft.Office.Interop.OutlookViewCtl.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.4420.1017"
+          },
+          "lib/Microsoft.Office.Interop.PowerPoint.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.4420.1017"
+          },
+          "lib/Microsoft.Office.Interop.Publisher.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.4420.1017"
+          },
+          "lib/Microsoft.Office.Interop.SharePointDesigner.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.4420.1017"
+          },
+          "lib/Microsoft.Office.Interop.SharePointDesignerPage.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.4420.1017"
+          },
+          "lib/Microsoft.Office.Interop.SmartTag.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.4420.1017"
+          },
+          "lib/Microsoft.Office.Interop.VisOcx.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.4420.1017"
+          },
+          "lib/Microsoft.Office.Interop.Visio.SaveAsWeb.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.4420.1017"
+          },
+          "lib/Microsoft.Office.Interop.Visio.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.4569.1507"
+          },
+          "lib/Microsoft.Office.Interop.Word.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.4797.1003"
+          },
+          "lib/Microsoft.Vbe.Interop.Forms.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "15.0.4569.1506"
+          },
+          "lib/Microsoft.Vbe.Interop.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.4561.1000"
+          },
+          "lib/Office.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.4815.1000"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WordToPdf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Office.Interop.Word/15.0.4797.1004": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lavTOrMGK/o/t3+gGr7JuVrL8XDdnS0DwPLcYv/StOiysXO4L0C36IXTVtEJo1Mh9Aoxo9a8dgGcPi+faTlv0g==",
+      "path": "microsoft.office.interop.word/15.0.4797.1004",
+      "hashPath": "microsoft.office.interop.word.15.0.4797.1004.nupkg.sha512"
+    },
+    "MSOffice.Interop/15.0.4815.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YwbJriGRusG0PcVoks37PSbucwvPtBYwMdeF7Sshre2dla+QFXZn1Jn+Ys+mCZHR2MlCAdY1eLPigybP9JBHdw==",
+      "path": "msoffice.interop/15.0.4815.1",
+      "hashPath": "msoffice.interop.15.0.4815.1.nupkg.sha512"
+    }
+  }
+}

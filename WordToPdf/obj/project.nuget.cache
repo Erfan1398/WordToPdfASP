@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "iglpop7sPnTab1IQ9tVLOjdlfbmHDwf0mY39yT50qDjo1NI4hYtGRxRsP5CpTLrmix92L5NWUlYUs3POD2i4vQ==",
+  "success": true,
+  "projectFilePath": "C:\\New folder\\WordToPdf\\WordToPdf\\WordToPdf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\technoclient\\.nuget\\packages\\microsoft.office.interop.word\\15.0.4797.1004\\microsoft.office.interop.word.15.0.4797.1004.nupkg.sha512",
+    "C:\\Users\\technoclient\\.nuget\\packages\\msoffice.interop\\15.0.4815.1\\msoffice.interop.15.0.4815.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MSOffice.Interop 15.0.4815.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "MSOffice.Interop",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

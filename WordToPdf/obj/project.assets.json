@@ -1,0 +1,207 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Microsoft.Office.Interop.Word/15.0.4797.1004": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Office.Interop.Word.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Office.Interop.Word.dll": {}
+        }
+      },
+      "MSOffice.Interop/15.0.4815.1": {
+        "type": "package",
+        "compile": {
+          "lib/Microsoft.Office.Interop.Access.Dao.dll": {},
+          "lib/Microsoft.Office.Interop.Access.dll": {},
+          "lib/Microsoft.Office.Interop.Excel.dll": {},
+          "lib/Microsoft.Office.Interop.Graph.dll": {},
+          "lib/Microsoft.Office.Interop.InfoPath.SemiTrust.dll": {},
+          "lib/Microsoft.Office.Interop.InfoPath.Xml.dll": {},
+          "lib/Microsoft.Office.Interop.InfoPath.dll": {},
+          "lib/Microsoft.Office.Interop.MSProject.dll": {},
+          "lib/Microsoft.Office.Interop.OneNote.dll": {},
+          "lib/Microsoft.Office.Interop.Outlook.dll": {},
+          "lib/Microsoft.Office.Interop.OutlookViewCtl.dll": {},
+          "lib/Microsoft.Office.Interop.PowerPoint.dll": {},
+          "lib/Microsoft.Office.Interop.Publisher.dll": {},
+          "lib/Microsoft.Office.Interop.SharePointDesigner.dll": {},
+          "lib/Microsoft.Office.Interop.SharePointDesignerPage.dll": {},
+          "lib/Microsoft.Office.Interop.SmartTag.dll": {},
+          "lib/Microsoft.Office.Interop.VisOcx.dll": {},
+          "lib/Microsoft.Office.Interop.Visio.SaveAsWeb.dll": {},
+          "lib/Microsoft.Office.Interop.Visio.dll": {},
+          "lib/Microsoft.Office.Interop.Word.dll": {},
+          "lib/Microsoft.Vbe.Interop.Forms.dll": {},
+          "lib/Microsoft.Vbe.Interop.dll": {},
+          "lib/Office.dll": {}
+        },
+        "runtime": {
+          "lib/Microsoft.Office.Interop.Access.Dao.dll": {},
+          "lib/Microsoft.Office.Interop.Access.dll": {},
+          "lib/Microsoft.Office.Interop.Excel.dll": {},
+          "lib/Microsoft.Office.Interop.Graph.dll": {},
+          "lib/Microsoft.Office.Interop.InfoPath.SemiTrust.dll": {},
+          "lib/Microsoft.Office.Interop.InfoPath.Xml.dll": {},
+          "lib/Microsoft.Office.Interop.InfoPath.dll": {},
+          "lib/Microsoft.Office.Interop.MSProject.dll": {},
+          "lib/Microsoft.Office.Interop.OneNote.dll": {},
+          "lib/Microsoft.Office.Interop.Outlook.dll": {},
+          "lib/Microsoft.Office.Interop.OutlookViewCtl.dll": {},
+          "lib/Microsoft.Office.Interop.PowerPoint.dll": {},
+          "lib/Microsoft.Office.Interop.Publisher.dll": {},
+          "lib/Microsoft.Office.Interop.SharePointDesigner.dll": {},
+          "lib/Microsoft.Office.Interop.SharePointDesignerPage.dll": {},
+          "lib/Microsoft.Office.Interop.SmartTag.dll": {},
+          "lib/Microsoft.Office.Interop.VisOcx.dll": {},
+          "lib/Microsoft.Office.Interop.Visio.SaveAsWeb.dll": {},
+          "lib/Microsoft.Office.Interop.Visio.dll": {},
+          "lib/Microsoft.Office.Interop.Word.dll": {},
+          "lib/Microsoft.Vbe.Interop.Forms.dll": {},
+          "lib/Microsoft.Vbe.Interop.dll": {},
+          "lib/Office.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Office.Interop.Word/15.0.4797.1004": {
+      "sha512": "lavTOrMGK/o/t3+gGr7JuVrL8XDdnS0DwPLcYv/StOiysXO4L0C36IXTVtEJo1Mh9Aoxo9a8dgGcPi+faTlv0g==",
+      "type": "package",
+      "path": "microsoft.office.interop.word/15.0.4797.1004",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net20/Microsoft.Office.Interop.Word.dll",
+        "lib/netstandard2.0/Microsoft.Office.Interop.Word.dll",
+        "microsoft.office.interop.word.15.0.4797.1004.nupkg.sha512",
+        "microsoft.office.interop.word.nuspec"
+      ]
+    },
+    "MSOffice.Interop/15.0.4815.1": {
+      "sha512": "YwbJriGRusG0PcVoks37PSbucwvPtBYwMdeF7Sshre2dla+QFXZn1Jn+Ys+mCZHR2MlCAdY1eLPigybP9JBHdw==",
+      "type": "package",
+      "path": "msoffice.interop/15.0.4815.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/Microsoft.Office.Interop.Access.Dao.dll",
+        "lib/Microsoft.Office.Interop.Access.dll",
+        "lib/Microsoft.Office.Interop.Excel.dll",
+        "lib/Microsoft.Office.Interop.Graph.dll",
+        "lib/Microsoft.Office.Interop.InfoPath.SemiTrust.dll",
+        "lib/Microsoft.Office.Interop.InfoPath.Xml.dll",
+        "lib/Microsoft.Office.Interop.InfoPath.dll",
+        "lib/Microsoft.Office.Interop.MSProject.dll",
+        "lib/Microsoft.Office.Interop.OneNote.dll",
+        "lib/Microsoft.Office.Interop.Outlook.dll",
+        "lib/Microsoft.Office.Interop.OutlookViewCtl.dll",
+        "lib/Microsoft.Office.Interop.PowerPoint.dll",
+        "lib/Microsoft.Office.Interop.Publisher.dll",
+        "lib/Microsoft.Office.Interop.SharePointDesigner.dll",
+        "lib/Microsoft.Office.Interop.SharePointDesignerPage.dll",
+        "lib/Microsoft.Office.Interop.SmartTag.dll",
+        "lib/Microsoft.Office.Interop.VisOcx.dll",
+        "lib/Microsoft.Office.Interop.Visio.SaveAsWeb.dll",
+        "lib/Microsoft.Office.Interop.Visio.dll",
+        "lib/Microsoft.Office.Interop.Word.dll",
+        "lib/Microsoft.Vbe.Interop.Forms.dll",
+        "lib/Microsoft.Vbe.Interop.dll",
+        "lib/Office.dll",
+        "msoffice.interop.15.0.4815.1.nupkg.sha512",
+        "msoffice.interop.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "MSOffice.Interop >= 15.0.4815.1",
+      "Microsoft.Office.Interop.Word >= 15.0.4797.1004"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\technoclient\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\New folder\\WordToPdf\\WordToPdf\\WordToPdf.csproj",
+      "projectName": "WordToPdf",
+      "projectPath": "C:\\New folder\\WordToPdf\\WordToPdf\\WordToPdf.csproj",
+      "packagesPath": "C:\\Users\\technoclient\\.nuget\\packages\\",
+      "outputPath": "C:\\New folder\\WordToPdf\\WordToPdf\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\technoclient\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "MSOffice.Interop": {
+            "target": "Package",
+            "version": "[15.0.4815.1, )"
+          },
+          "Microsoft.Office.Interop.Word": {
+            "target": "Package",
+            "version": "[15.0.4797.1004, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MSOffice.Interop 15.0.4815.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "MSOffice.Interop",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
